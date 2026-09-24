@@ -1,7 +1,7 @@
 # Python daily tracker script
 
 # Setup
-PyInstaller is used to turn our .py file into a script we can run as a program by simply clicking on it.
+PyInstaller is used to turn our .py file into an executable we can run by simply clicking on it.
 pip install pyinstaller
 py -m PyInstaller --onefile tracking.py
 
